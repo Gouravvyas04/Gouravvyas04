@@ -18,7 +18,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshi-jn/deepanshi-jn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshi-jn/deepanshi-jn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/deepanshi-jn/deepanshi-jn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gouravvyas04/Gouravvyas04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gouravvyas04/Gouravvyas04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gouravvyas04/Gouravvyas04/output/github-snake.svg" />
 </picture>
